@@ -28,7 +28,7 @@ window.KATAKITA_CONFIG = {
   // Mode Pengujian: ON (true) / OFF (false)
   // Saat ON: semua level & pelajaran terbuka (tanpa perlu selesaikan level sebelumnya)
   // Saat OFF: level terkunci sampai selesaikan level sebelumnya (default)
-  devMode: false,
+  devMode: true,
 
   // Link untuk mendapatkan kode akses (tampil di halaman pendaftaran)
   // Ganti dengan link Anda (lynk.id, wa.me, website, dll)
